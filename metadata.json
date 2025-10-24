@@ -1,0 +1,5 @@
+{
+  "name": "Landfill-CompliDesign",
+  "description": "An advanced web application for landfill design and management. This tool assists engineers in generating detailed Bill of Quantities (BoQ), cross-sectional drawings, and 3D conceptual models for various landfill components, ensuring compliance and efficiency.",
+  "requestFramePermissions": []
+}
